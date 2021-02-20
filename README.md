@@ -6,6 +6,8 @@
 
 key_stats.py - скрипт для получения ТОП по списку запросов, проверки позиций, файла импорта для KeyAssort. [github key_stats.py](https://github.com/m0r9un/seo-tools/blob/main/serpstat/key_stats.py)
 
+YOUR_TOKEN нужно поменять на ваш token serpstat api.
+
 Код работает на Python 3.7 на Serpstat API v3 (пока еще).
 
 * Сохраняем файл key_stats.py в одной папке с keywords.txt в котором списком через enter записаны ключи.
